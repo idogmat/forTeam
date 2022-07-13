@@ -1,0 +1,16 @@
+.Navbar{
+    display: flex;
+    flex-flow: row;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 85%;
+    margin: 2rem 1rem;
+}
+.Navbar a{
+    color: #61dafb;
+    text-decoration: none;
+}
+.Navbar .active{
+    color: cadetblue;
+    text-decoration: cadetblue;
+}
